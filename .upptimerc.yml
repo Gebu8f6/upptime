@@ -1,21 +1,12 @@
 # Change these first
-owner: gebu8f # Your GitHub organization or username, where this repository lives
+owner: Gebu8f6 # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Passwd
+    url: https://passwd.gebu8f.pp.ua
+  - name: Password1
+    url: https://pass-4a4m.onrender.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
