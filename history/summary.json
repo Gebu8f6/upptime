@@ -4,18 +4,20 @@
     "url": "https://passwd.gebu8f.pp.ua",
     "icon": "https://icons.duckduckgo.com/ip3/passwd.gebu8f.pp.ua.ico",
     "slug": "passwd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 790,
-    "timeDay": 897,
-    "timeWeek": 824,
+    "timeDay": 847,
+    "timeWeek": 820,
     "timeMonth": 772,
     "timeYear": 790,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-29": 0
+    }
   },
   {
     "name": "Password1",
