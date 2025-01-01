@@ -7,6 +7,8 @@ sites:
     url: https://passwd.gebu8f.pp.ua
   - name: Password1
     url: https://pass-4a4m.onrender.com
+  - name: Server00-A1
+    url: https://gebu8f.serv00.net/info
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
